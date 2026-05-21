@@ -41,3 +41,7 @@ smart_traffic/
 └── models/
     └── yolov8n.pt       # (optional — place here to enable live detection)
 ```
+
+RESULTS:
+<img width="600" height="300" alt="Screenshot 2026-04-07 013916" src="https://github.com/user-attachments/assets/e3c624c6-7a67-4283-a3cb-a34b52e30614" />
+
