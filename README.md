@@ -60,7 +60,6 @@ YOLO TRAFFIC DENSITY DETECTION:
 
 EMERGENCY GREEN CORRIDOR(SHORTEST ROOT FOR EMERGENCY VEHICLES):
 
-<img width="600" height="300" alt="Screenshot 2026-05-21 231246" src="https://github.com/user-attachments/assets/410dcf6f-081b-4922-8764-2ca147039acd" />
 <img width="600" height="300" alt="Screenshot 2026-05-21 231448" src="https://github.com/user-attachments/assets/6fdcc850-ee7e-4a96-a014-23ddce0dc4ea" />
 
 
