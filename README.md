@@ -1,5 +1,19 @@
 # 🚦 Smart Traffic AI — Bengaluru v3.0
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-PyTorch%20%7C%20GAT%20%2B%20LSTM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vision-YOLOv8-00CFFF?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/RL-Q--Learning-A259FF?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flood%20Model-LSTM%20%7C%20PyTorch-F55036?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Routing-Dijkstra%20%7C%20Flood--Aware-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+
+<br/><br/>
+
+</div>
+
 A unified, AI-powered smart traffic management system for Bengaluru's road network.
 
 ## Features
