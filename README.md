@@ -1,4 +1,4 @@
-<img width="955" height="503" alt="Screenshot 2026-05-21 231246" src="https://github.com/user-attachments/assets/fc891d5f-ef50-4580-b243-8c2f7b2bc7ab" /># 🚦 Smart Traffic AI — Bengaluru v3.0
+# 🚦 Smart Traffic AI — Bengaluru v3.0
 
 A unified, AI-powered smart traffic management system for Bengaluru's road network.
 
